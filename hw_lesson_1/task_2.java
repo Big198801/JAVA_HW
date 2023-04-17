@@ -18,7 +18,7 @@ Sample Output:
 10
 */
 
-package JAVA.HW_JAVA.hw_lesson_1;
+package HW_JAVA.hw_lesson_1;
 import java.util.Scanner;
 
 public class task_2 {

@@ -3,7 +3,7 @@
 // что символ c i-й позиции переместится на индекс index[i] в результирующей строке.
 //
 // Пример: s = “cba”, index = [3,2,1] result “abc”
-package JAVA.HW_JAVA.hw_lesson_2;
+package HW_JAVA.hw_lesson_2;
 
 public class Task_1 {
     public static void main(String[] args) {

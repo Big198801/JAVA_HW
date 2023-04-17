@@ -1,4 +1,4 @@
-package JAVA.HW_JAVA.hw_lesson_2;
+package HW_JAVA.hw_lesson_2;
 public class Task_2 {
     public static void main(String[] args) {
         String[] recepies = {

@@ -7,7 +7,7 @@ Sample Output:
 512
 1331
 **/
-package JAVA.HW_JAVA.hw_lesson_1;
+package HW_JAVA.hw_lesson_1;
 import java.util.Scanner;
 public class task_1 {
    public static void main(String[] args) {

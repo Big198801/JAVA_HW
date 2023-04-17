@@ -2,7 +2,7 @@
  * Task_3. 
 Реализовать простой калькулятор (+,-,=,*), только с целыми числами.
  */
-package JAVA.HW_JAVA.hw_lesson_1;
+package HW_JAVA.hw_lesson_1;
 import java.util.Scanner;
 public class task_3 {
     public static void main(String[] args) {
